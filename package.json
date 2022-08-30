@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator-x",
+  "version": "1.0.0",
+  "description": "Refresher, follow-through",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xZ3n/portfolio-generator-x.git"
+  },
+  "author": "0xZ3n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xZ3n/portfolio-generator-x/issues"
+  },
+  "homepage": "https://github.com/0xZ3n/portfolio-generator-x#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
